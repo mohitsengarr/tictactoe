@@ -1,4 +1,4 @@
-# tic-tac-toe
+# tic-tac-toe socket.io server
 
 ## Project setup
 ```
